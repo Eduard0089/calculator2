@@ -79,7 +79,7 @@ public class Calculator {
             System.out.println("Между числами и математическим символом должен быть пробел");
 
         }
-        System.out.println("Privet");
+
     }
 }
 
